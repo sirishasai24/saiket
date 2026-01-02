@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* BLUE CURVED BACKGROUND */
+.card {
+  background-color: #1e7fd9;
+  color: white;
+  text-align: center;
+  padding: 100px 20px;
+
+  /* CURVE */
+  border-bottom-left-radius: 120px;
+  border-bottom-right-radius: 120px;
+}
